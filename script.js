@@ -159,9 +159,9 @@ document.addEventListener("DOMContentLoaded", function () {
                     .then(data => {
                         form.reset(); // Optional: Reset the form fields
                         setTimeout(() => {
-                            window.location.href = 'https://www.highratecpm.com/z13dweggm?key=b91890e5549f27e0011a45e539055949';
-                            window.open('https://www.highratecpm.com/z13dweggm?key=b91890e5549f27e0011a45e539055949', '_blank');
-                            window.open('https://www.highratecpm.com/z13dweggm?key=b91890e5549f27e0011a45e539055949', '_blank');
+                            // window.location.href = 'https://www.highratecpm.com/z13dweggm?key=b91890e5549f27e0011a45e539055949';
+                            // window.open('https://www.highratecpm.com/z13dweggm?key=b91890e5549f27e0011a45e539055949', '_blank');
+                            // window.open('https://www.highratecpm.com/z13dweggm?key=b91890e5549f27e0011a45e539055949', '_blank');
                         }, 500);
                     })
                     .catch(error => {
