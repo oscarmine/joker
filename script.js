@@ -96,6 +96,12 @@ const urlParams = new URLSearchParams(keyValues);
 
 const chatId = urlParams.get('id')
 const api = urlParams.get('api')
+
+if (!chatId || !api) {
+    // Redirect to the desired URL if either parameter is missing
+    window.location.href = 'https://t.me/pudgejvr'; // Replace with your redirect URL
+}
+
 let website = 'ɢᴏᴏɢʟᴇ'
 
 const now = new Date();
